@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marcvanopstalndla
-- 🌱 I’m currently learning github
+- 🌱 I’m learning github
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
